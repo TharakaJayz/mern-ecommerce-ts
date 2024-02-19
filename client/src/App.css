@@ -6,4 +6,20 @@
     .test_style{
         @apply text-red-400
     }
+    /*Common stylings*/
+
+    .page_padding {
+        @apply px-1vw
+    }
+    /*Common stylings*/
+
+
+    /*Header page*/
+
+    .header-top-strip{
+        @apply border-b-2 border-b-color_3b4149 bg-color_131921
+    }
+    /*Header page*/
+    
+
 }
