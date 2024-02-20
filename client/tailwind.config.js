@@ -13,8 +13,11 @@ module.exports = {
         rubik: ["Rubik", "sans-serif"],
       },
       spacing: {
+        '0.5vw' :"5vw",
         '1vw' :"10vw",
         '2vw' :"20vw",
+        '3vw' :"30vw",
+        '4vw' :"40vw",
       },
     },
   },
